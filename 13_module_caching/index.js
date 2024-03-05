@@ -13,7 +13,7 @@ console.log(superHero.getName());
 //---
 
 const newSuperHero = require("./super-hero");
-console.log(newSuperHero.getName());
+console.log(newSuperHero.getName()); // Superman
 
 // a new instance of module IS NOT loaded,
 // instead the first old cached module (line 1 ) is used again
