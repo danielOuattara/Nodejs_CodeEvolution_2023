@@ -1,0 +1,8 @@
+{
+  "name": "John Doe",
+  "country": "China",
+  "address": {
+    "street": "1234 Hero Avenue",
+    "city": "Hero Town"
+  }
+}
